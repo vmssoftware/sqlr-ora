@@ -1,5 +1,5 @@
 # HOW TO BUILD:
-       Edit sqlrelay.conf with your oracle connection string first!
+##     Edit sqlrelay.conf with your oracle connection string first!
 ##     Execute command for build:
        docker build --pull -t sqlr-ora:21 . 
 
